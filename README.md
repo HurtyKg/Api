@@ -1,10 +1,5 @@
-# NodeJS Simple API
+# NodeJS API
 
-<p align="center">
-  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projects</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Lincense</a>
-</p>
 
 
 ## 💻 Projeto
